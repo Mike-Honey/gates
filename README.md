@@ -34,3 +34,9 @@ There is a hidden page using the [Key Influencers visual](https://learn.microsof
 ![Key Influencers page](https://github.com/Mike-Honey/gates/raw/main/BMGF-Grants-Key-Influencers.png)]
 
 The data visualisation engine is [Power BI](https://powerbi.microsoft.com), featuring the Custom Visual:  [Word Cloud](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380752?tab=Overview). 
+
+## 🤝 Support
+
+Contributions, issues, feature requests and sponsorship are all welcome!
+
+Give a ⭐️ if you like this project!
