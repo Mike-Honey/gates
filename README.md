@@ -15,7 +15,7 @@ dataviz to analyse the Grants given by the Bill & Melinda Gates Foundation and p
 
 **Reference:**
 
-Dataviz using data from [Gates Foundation - Committed grants page]([https://ourworldindata.org/](https://www.gatesfoundation.org/about/committed-grants)), where a downloadable database (CSV file) is provided detailing the grants. 
+Dataviz using data from [Gates Foundation - Committed grants page](https://www.gatesfoundation.org/about/committed-grants), where a downloadable database (CSV file) is provided detailing the grants. 
 
 Inspired by [an interview](https://www.linkedin.com/feed/update/urn:li:activity:7176602182513782784/) of [Bill Gates](https://www.linkedin.com/in/williamhgates/) by [Chris Anderson](https://www.linkedin.com/in/chris-anderson-3b2a05bb), where Bill discussed their philanthropic efforts over the years.
 
